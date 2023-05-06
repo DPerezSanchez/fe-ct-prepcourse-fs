@@ -5,6 +5,7 @@ const {
    agregarStringInvertida,
 } = require('../Ejercicio 01');
 
+//import default from '../Ejercicio 02';
 const {
    crearInstanciaPersona,
    agregarMetodo,
